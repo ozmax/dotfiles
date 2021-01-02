@@ -1,0 +1,19 @@
+[cpu_usage]
+label=CPU
+interval=10
+command=/usr/share/i3blocks/cpu_usage
+min_width=CPU 100.00%
+align=center
+
+[battery]
+label=⚡
+command=/usr/share/i3blocks/battery
+interval=1
+
+[date]
+command=date +"%a %d %b %Y"
+interval=15
+
+[time]
+command=date +"%R"
+interval=15

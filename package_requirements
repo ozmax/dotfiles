@@ -1,0 +1,10 @@
+i3		window manager
+picom		compositor
+i3blocks	i3 status bar
+feh		background manager
+zsh		shell
+git		version control
+vim		terminal editor
+tmux		terminal multiplexer	
+xorg		x server
+xinit		x server init scripts
