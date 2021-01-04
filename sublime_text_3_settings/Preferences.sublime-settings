@@ -1,0 +1,38 @@
+{
+	"bold_folder_labels": true,
+	"command": "paste_and_indent",
+	"default_line_ending": "unix",
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
+	"font_size": 8,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Babel",
+		"Jinja2",
+		"Vintage",
+		"Wrap Plus"
+	],
+	"keys":
+	[
+		"ctrl+v"
+	],
+	"mini_diff": false,
+	"remember_open_files": false,
+	"rulers":
+	[
+		79
+	],
+	"show_line_endings": true,
+	"trim_trailing_white_space_on_save": true
+}

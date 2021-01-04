@@ -8,3 +8,4 @@ vim		terminal editor
 tmux		terminal multiplexer	
 xorg		x server
 xinit		x server init scripts
+sublime_text_3	editor

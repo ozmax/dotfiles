@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Djaneiro",
+		"Emmet",
+		"ferm Syntax",
+		"Gettext",
+		"GitGutter",
+		"INI",
+		"LESS",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SublimeLinter-pyflakes",
+		"TOML"
+	]
+}
