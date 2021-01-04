@@ -9,3 +9,4 @@ tmux		terminal multiplexer
 xorg		x server
 xinit		x server init scripts
 sublime_text_3	editor
+fonts-dejaVu	fonts used in i3 and shell
