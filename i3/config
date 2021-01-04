@@ -172,5 +172,5 @@ bar {
 }
 
 exec_always --no-startup-id picom --config ~/.config/picom/picom.conf
-exec --no-startup-id ~/.fehbg
+exec --no-startup-id ~/.config/feh/fehbg
 default_border pixel 5
