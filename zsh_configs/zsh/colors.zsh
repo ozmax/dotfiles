@@ -1,7 +1,5 @@
 autoload -Uz colors && colors
 
-export CLICOLOR=0
-
 ### LS COLORS ###
 
 # directory color
