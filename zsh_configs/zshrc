@@ -9,5 +9,6 @@ source ~/.zsh/bindkeys.zsh
 source ~/.zsh/functions.zsh
 
 # app specific
+source ~/.zsh/pew.zsh
 source ~/.zsh/tmuxp.zsh
 source ~/.zsh/python.zsh

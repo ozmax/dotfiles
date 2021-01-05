@@ -1,12 +1,17 @@
-i3		window manager
-picom		compositor
-i3blocks	i3 status bar
-feh		background manager
-zsh		shell
-git		version control
-vim		terminal editor
-tmux		terminal multiplexer	
-xorg		x server
-xinit		x server init scripts
-sublime_text_3	editor
-fonts-dejaVu	fonts used in i3 and shell
+packages related to dotfiles
+	i3		window manager
+	picom		compositor
+	i3blocks	i3 status bar
+	feh		background manager
+	zsh		shell
+	git		version control
+	vim		terminal editor
+	tmux		terminal multiplexer
+	xorg		x server
+	xinit		x server init scripts
+	sublime_text_3	editor
+	fonts-dejaVu	fonts used in i3 and shell
+
+other packages in usual installations
+	pipx
+	pew
