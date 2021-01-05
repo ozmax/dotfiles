@@ -5,6 +5,12 @@ command=/usr/share/i3blocks/cpu_usage
 min_width=CPU 100.00%
 align=center
 
+[cpu_temp]
+command=sensors | grep "Package id 0:" | awk '{print $4}' | grep -Eo '[0-9|\.]+°C'
+interval=10
+min_width=999.99°C
+align=center
+
 [battery]
 label=⚡
 command=/usr/share/i3blocks/battery
