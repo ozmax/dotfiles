@@ -1,9 +1,3 @@
-l(){
-    cd $(eval "sed -n 's|start_directory: ||p' ~/.tmuxp/$1")
-    tmuxp load ~/.tmuxp/$1
-}
-
-
 recreatedb(){
     dropdb $1
     createdb $1
@@ -29,6 +23,3 @@ placeholdit(){
     wget -O $2.png "http://placehold.it/$1.png"
 }
 
-rmpyc() {
-    find . -name "*.pyc" -delete
-}

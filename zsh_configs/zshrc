@@ -7,3 +7,7 @@ source ~/.zsh/completion.zsh
 source ~/.zsh/aliases.zsh
 source ~/.zsh/bindkeys.zsh
 source ~/.zsh/functions.zsh
+
+# app specific
+source ~/.zsh/tmuxp.zsh
+source ~/.zsh/python.zsh
